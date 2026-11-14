@@ -1,0 +1,5 @@
+{
+  "name": "sklly09-claude",
+  "owner": { "name": "sklly09" },
+  "plugins": [{ "name": "koi-pond-8bit", "source": "./plugins/koi-pond-8bit" }]
+}
